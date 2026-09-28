@@ -1,7 +1,16 @@
 # Portfolio
 
+### → **[portfolio-pranjal-shrivastava-mnmc02gy6.vercel.app](https://portfolio-pranjal-shrivastava-mnmc02gy6.vercel.app/)**
+
 Personal portfolio for Pranjal Shrivastava. Next.js App Router, server-rendered,
 deployed free on Vercel — and written so it can move somewhere else without a rewrite.
+
+> **Note on the link above.** That is a *deployment* URL: it carries a build hash
+> (`mnmc02gy6`) and is pinned to one specific deployment forever. It will keep working,
+> but it will not follow future pushes. The project's production alias — shown at the top
+> of the project in the Vercel dashboard, usually
+> `portfolio-pranjal-shrivastava.vercel.app` — always points at the latest deployment and
+> is the better link to share. Swap it in here once you've confirmed it.
 
 ---
 
